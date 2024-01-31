@@ -59,11 +59,6 @@ I am a Frontend Developer from Serbia
 
 ---
 
-### :writing_hand:
-
-<a href="https://djordjearandjelovic.netlify.app">
-  <p>My Portfolio</p>
-</a>
 
 
 
