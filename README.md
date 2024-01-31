@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/djordje-arandjelovic">
+  <a href="https://www.linkedin.com/in/djordje-arandjelovic" target="_blank">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4MmVmenQ2cHAzYzdqdDAwbnJ6NGE4dXRjcml5OGhxMHZlbjR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rbJrclh5cnPH8qyvLT/giphy.gif" width="100"/>
   </a>
   <div id="badges">
