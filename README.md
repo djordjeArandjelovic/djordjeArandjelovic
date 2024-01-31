@@ -29,7 +29,7 @@ I am a Frontend Developer from Serbia
   
 ---
 
-<div id="languages" align="center">
+
   ### :hammer_and_wrench: Languages and Tools :
   
   <div>
@@ -46,16 +46,16 @@ I am a Frontend Developer from Serbia
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   </div>
-</div>
+
 
 ---
 
-<div id="stats" align="center">
+
   ### :fire: My Stats :
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djordjeArandjelovic&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</div>
+
 
 <!--
 **djordjeArandjelovic/djordjeArandjelovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
