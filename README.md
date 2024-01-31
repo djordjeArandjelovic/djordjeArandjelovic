@@ -21,7 +21,7 @@ I am a Frontend Developer from Serbia
 
 - :zap: In my free time, I am learning Swift, Linux (mostly Kali Linux), Networking, and studying for CompTIA A+ certification.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/djordje-arandjelovic))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/djordje-arandjelovic))
 
 <!--
 **djordjeArandjelovic/djordjeArandjelovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
