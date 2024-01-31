@@ -13,6 +13,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 
 I am a Frontend Developer from Serbia
@@ -22,6 +24,7 @@ I am a Frontend Developer from Serbia
 - :zap: In my free time, I am learning Swift, Linux (mostly Kali Linux), Networking, and studying for CompTIA A+ certification.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/djordje-arandjelovic))
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
