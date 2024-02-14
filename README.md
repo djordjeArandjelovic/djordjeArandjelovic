@@ -46,10 +46,10 @@ I am a Frontend Developer from Serbia
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/djordje-arandjelovic]) -->
   
----
+<!-- ---
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools : -->
   
 
 
