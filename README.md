@@ -53,11 +53,6 @@ I am a Frontend Developer from Serbia
 
 
 ### :fire: My Stats :
-
-<a href="https://git.io/streak-stats">
-  <img align="center" src="(http://github-readme-streak-stats.herokuapp.com?user=djordjeArandjelovic&theme=dark&background=000000" />
-</a>
-
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djordjeArandjelovic&theme=dark&background=000000)](https://git.io/streak-stats)
 
