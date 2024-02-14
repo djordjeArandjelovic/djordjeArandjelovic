@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   </div>
-  
+  ---
   <a href="https://www.linkedin.com/in/djordje-arandjelovic">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4MmVmenQ2cHAzYzdqdDAwbnJ6NGE4dXRjcml5OGhxMHZlbjR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rbJrclh5cnPH8qyvLT/giphy.gif" width="100"/>
   </a>
