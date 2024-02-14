@@ -53,6 +53,11 @@ I am a Frontend Developer from Serbia
 
 
 ### :fire: My Stats :
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djordjeArandjelovic&repo=github-readme-stats&theme=buefy" />
+</a>
+ 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djordjeArandjelovic&theme=dark&background=000000)](https://git.io/streak-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjeArandjelovic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
