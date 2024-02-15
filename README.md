@@ -40,7 +40,7 @@
 
 I am a Frontend Developer from Serbia
 
-- :telescope: I’m working as a Frontend Developer and contributing to the frontend for building web applications.
+- :telescope: I’m currently working as a Frontend Developer.
 
 - :zap: In my free time, I am learning Swift, Linux (mostly Kali Linux), Networking, and studying for CompTIA A+ certification.
 
