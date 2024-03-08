@@ -38,13 +38,13 @@
 
 --- -->
 
-### :man_technologist: About Me :
+<!-- ### :man_technologist: About Me :
 
 I am a Frontend Developer from Serbia
 
 - :telescope: I’m currently working as a Frontend Developer.
 
-- :zap: In my free time, I am learning Swift, Linux (mostly Kali Linux), Networking, and studying for CompTIA A+ certification.
+- :zap: In my free time, I am learning Swift, Linux (mostly Kali Linux), Networking, and studying for CompTIA A+ certification. -->
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/djordje-arandjelovic])
 
