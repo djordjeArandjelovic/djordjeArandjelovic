@@ -57,11 +57,6 @@ I am a Frontend Developer from Serbia
 
 
 ### :hammer_and_wrench: Languages and Tools : -->
-  
-
-
-
----
 
 
 ### :fire: My Stats :
