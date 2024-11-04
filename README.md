@@ -26,29 +26,6 @@
 
 ---
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
---- -->
-
-<!-- ### :man_technologist: About Me :
-
-I am a Frontend Developer from Serbia
-
-- :telescope: I’m currently working as a Frontend Developer.
-
-- :zap: In my free time, I am learning Swift, Linux (mostly Kali Linux), Networking, and studying for CompTIA A+ certification. -->
-
-<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/djordje-arandjelovic])
-
-
-  
-  
--->
-  
-<!-- ---
-
 
 ### :hammer_and_wrench: Languages and Tools : -->
 
@@ -61,17 +38,3 @@ I am a Frontend Developer from Serbia
 
 
 ---
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
