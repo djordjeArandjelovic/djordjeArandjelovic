@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000011,50:0a0a2e,100:000011&height=220&section=header&text=Djordje%20Arandjelovic&fontSize=42&fontColor=F05138&animation=twinkling&fontAlignY=40&desc=iOS%20Developer%20%7C%20SwiftUI%20%26%20UIKit&descSize=18&descAlignY=62&descFontColor=8899ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:000000&height=220&section=header&text=Djordje+Arandjelovic&fontSize=42&fontColor=F05138&animation=twinkling&fontAlignY=40&desc=iOS+Developer+%7C+SwiftUI+%26+UIKit&descSize=18&descAlignY=62&descFontColor=ffffff)
 
 <div align="center">
 
@@ -48,8 +48,18 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=djordjeArandjelovic&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjeArandjelovic&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djordjeArandjelovic&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjeArandjelovic&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djordjeArandjelovic&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djordjeArandjelovic&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -63,4 +73,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000011,50:0a0a2e,100:000011&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a2e&height=120&section=footer)
