@@ -2,7 +2,7 @@
 
 # 🛸 Djordje Arandjelovic
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F05138&center=true&vCenter=true&width=500&lines=iOS+Developer+%7C+SwiftUI+%26+UIKit;Building+for+Apple+platforms+%F0%9F%8D%8E;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F05138&center=true&vCenter=true&width=500&lines=iOS+Developer+%7C+SwiftUI+%26+UIKit;Building+for+Apple+platforms+%F0%9F%8D%8E)](https://git.io/typing-svg)
 
 <br/>
 
