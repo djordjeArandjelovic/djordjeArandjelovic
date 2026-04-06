@@ -1,16 +1,17 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000011,50:0a0a2e,100:000011&height=220&section=header&text=Djordje%20Arandjelovic&fontSize=42&fontColor=F05138&animation=twinkling&fontAlignY=40&desc=iOS%20Developer%20%7C%20SwiftUI%20%26%20UIKit&descSize=18&descAlignY=62&descFontColor=8899ff)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F05138&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Djordje+%F0%9F%91%8B;iOS+Developer+%7C+SwiftUI+%26+UIKit;Building+for+Apple+platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=8899FF&center=true&vCenter=true&width=500&lines=Building+native+iOS+apps+since+2022;SwiftUI+%7C+UIKit+%7C+Concurrency;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/djordje-arandjelovic">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY4MmVmenQ2cHAzYzdqdDAwbnJ6NGE4dXRjcml5OGhxMHZlbjR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rbJrclh5cnPH8qyvLT/giphy.gif" width="80"/>
-</a>
-
-<a href="https://www.linkedin.com/in/djordje-arandjelovic">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://djordjearandjelovic.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
+<a href="mailto:djordjearandjelovic@proton.me">
+  <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 
 </div>
@@ -20,9 +21,9 @@
 ### 👨‍💻 About Me
 
 - 📱 iOS developer with **3 years of SwiftUI** and **2 years of UIKit** experience
-- 🏗️ Currently deepening my knowledge of **Swift Concurrency** and **iOS architecture patterns**
-- 🔭 Working towards building **CoreML / Apple Intelligence** portfolio apps
-- 📫 Reach me at **djordjearandjelovic@proton.me**
+- 🏗️ Currently deepening knowledge in **Swift Concurrency** and **iOS architecture**
+- 🔭 Building portfolio apps with **CoreML** and **Apple Intelligence**
+- 📫 **djordjearandjelovic@proton.me**
 
 ---
 
@@ -30,7 +31,12 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=swift,xcode,firebase,git,figma&theme=dark)](https://skillicons.dev)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=F05138)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -40,11 +46,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=djordjeArandjelovic&theme=dark&background=000000&fire=F05138&ring=F05138&currStreakLabel=F05138)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=djordjeArandjelovic&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjeArandjelovic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=djordjeArandjelovic&show_icons=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordjeArandjelovic&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djordjeArandjelovic&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -54,6 +59,8 @@
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=djordjeArandjelovic&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=djordjeArandjelovic&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000011,50:0a0a2e,100:000011&height=120&section=footer)
